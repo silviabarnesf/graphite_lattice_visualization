@@ -1,5 +1,3 @@
-Solid state physics: Constructing a 3D hexagonal lattice for graphite using lattice vectors and basis atoms.
-
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
