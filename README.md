@@ -20,6 +20,7 @@ Graphite is a layered carbon allotrope composed of stacked graphene sheets arran
 *ABA-Stacked Graphite Structure*
 
 ![Graphite Lattice](results/graphite_structure.png)
+![Graphite Lattice](results/graphite_structure_2.png)
 
 The figure shows multiple graphene layers arranged in the characteristic ABA stacking sequence. Carbon atoms are connected through nearest-neighbor bonds within each layer, while the vertical separation between layers highlights the three-dimensional nature of the crystal.
 
