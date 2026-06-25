@@ -23,43 +23,6 @@ Graphite is a layered carbon allotrope composed of stacked graphene sheets arran
 
 The figure shows multiple graphene layers arranged in the characteristic ABA stacking sequence. Carbon atoms are connected through nearest-neighbor bonds within each layer, while the vertical separation between layers highlights the three-dimensional nature of the crystal.
 
-#### Computational Methods
-
-The simulation workflow consists of:
-
-1. Defining graphite lattice vectors
-2. Specifying atomic basis positions
-3. Generating repeated unit cells
-4. Constructing ABA-stacked layers
-5. Identifying nearest-neighbor bonds
-6. Rendering the structure in three dimensions
-
-## Requirements
-
-* Python 3.x
-* NumPy
-* Matplotlib
-
-Install dependencies:
-
-```bash
-pip install numpy matplotlib
-```
-
-Run:
-
-```bash
-python graphite_lattice.py
-```
-
-#### Skills Demonstrated
-
-* Computational modeling of crystal structures
-* Lattice-vector and basis-atom construction
-* Scientific visualization
-* Three-dimensional geometry generation
-* Python-based computational physics workflows
-
 #### Author
 
 Silvia Barnes
